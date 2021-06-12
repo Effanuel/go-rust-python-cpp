@@ -2,13 +2,13 @@ package main
 
 import "fmt"
 
-func main(){
-	var n, sum int = 1000, 0;
+func main() {
+	var n, total int = 1000, 0
 
 	for i := 0; i < n; i++ {
-		if i % 3 == 0 || i % 5 == 0 {
-			sum += i
+		if i%3 == 0 || i%5 == 0 {
+			total += i
 		}
 	}
-	fmt.Println(sum);
+	fmt.Println(total)
 }

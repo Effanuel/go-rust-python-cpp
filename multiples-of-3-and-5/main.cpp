@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 
 int main() {
     const int n = 1000;
