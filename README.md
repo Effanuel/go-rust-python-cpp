@@ -1,2 +1,3 @@
-# go-rust-python-cpp-scala-js
-Common algos written in Golang, Rust, Python, c++, Scala and Javascript for learning purposes
+# leetcode problem solutions
+
+### Written in Golang, Rust, Python, C++, Scala and Typescript
